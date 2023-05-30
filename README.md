@@ -1,1 +1,1 @@
-# Pulse wave indices: in silico proof
+# Pulse wave indices (PWI): in silico proof
